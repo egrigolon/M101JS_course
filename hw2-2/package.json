@@ -1,0 +1,24 @@
+{
+  "name": "hw2-2",
+  "version": "0.0.0",
+  "description": "Homework 2.2",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/egrigolon/M101JS_course.git"
+  },
+  "keywords": [
+    "mongodb",
+    "nodejs"
+  ],
+  "author": "egrigolon@gmail.com",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/egrigolon/M101JS_course/issues"
+  },
+  "homepage": "https://github.com/egrigolon/M101JS_course",
+  "dependencies": {
+    "mongodb": "^2.0.41"
+  },
+  "engine": "node >= 0.12.2"
+}
